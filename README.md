@@ -80,3 +80,17 @@ MIT — because freedom should be clean and forkable.
 
 **Amor** (the caveman with a vision), **ChatGPT** (the enabler), and **a lot of yelling at Copilot.**
 
+---
+
+## 🙌 I Want to Hear From You
+
+Did you use StealthScraper Lite on a weird page?  
+Save some ancient documentation?  
+Turn it into a daily automation tool?
+
+**Tell me. Seriously. I want to know.**
+
+Open an [issue](https://github.com/McJuniorstein/stealthscraper-lite/issues) and say hi, or tag me [@McJuniorstein](https://github.com/McJuniorstein) with what you did.
+
+> This project was built for personal use — but I'd love to see what *you* make it do.
+
